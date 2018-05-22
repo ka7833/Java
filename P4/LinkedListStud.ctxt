@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=LinkedListStud()
+comment1.params=
+comment1.target=boolean\ isEmpty()
+comment2.params=s
+comment2.target=void\ addAtFront(Student)
+comment3.params=s
+comment3.target=void\ addAtTail(Student)
+comment4.params=
+comment4.target=Student\ bestStudent()
+comment5.params=
+comment5.target=void\ printLinkedList()
+comment6.params=s
+comment6.target=void\ addInOrder(Student)
+numComments=7

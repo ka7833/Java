@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=scan
+comment0.target=Student[]\ createList(java.util.Scanner)
+comment1.params=list\ scan
+comment1.target=Student[]\ populateList(Student[],\ java.util.Scanner)
+comment2.params=
+comment2.target=int\ getSize()
+comment3.params=list\ n
+comment3.target=java.lang.String\ toString(Student[],\ int)
+comment4.params=list\ n
+comment4.target=Student\ findBestStudent(Student[],\ int)
+comment5.params=list\ n
+comment5.target=int\ countHonors(Student[],\ int)
+comment6.params=list\ n
+comment6.target=java.util.ArrayList\ honorsStuds(Student[],\ int)
+numComments=7
